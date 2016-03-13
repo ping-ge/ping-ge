@@ -1,15 +1,16 @@
-- title 'Author'
+- title '作者'
 
-h1
-  | Author
-h3
-  = data.settings.site_author
-p
-  = data.settings.site_author_profile
-.social-wrapper
-  ul
-    - data.settings.social_links.each do |name, url|
-      - if url
-        li
-          a href="#{url}"
-            i class=['fa', "fa-#{name}-square"]
+.text-center
+  h1
+    | 作者
+  h3
+    = data.settings.site_author_profile
+  .profile-image
+    img src="/images/profile/large.jpg" alt="title-logo"
+  .social-wrapper
+    ul
+      - data.settings.social_links.each do |name, url|
+        - if url
+          li
+            a href="#{url}"
+              i class=['fa', "fa-#{name}-square"]

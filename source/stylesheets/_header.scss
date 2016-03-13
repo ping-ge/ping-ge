@@ -1,5 +1,5 @@
 header {
-  background-image: url("../images/drops.png");
+  /*background-image: url("../images/drops.png");*/
   background-position: -300px 40px;
   background-repeat: no-repeat;
   height: 320px;
@@ -88,10 +88,10 @@ header {
 
   .logo {
     margin: 0 auto;
-    padding: 260px 20px 0 160px;
+    padding: 160px 20px 0;
 
     @include breakpoint($large-screen) {
-      padding: 250px 20px 0;
+      padding: 150px 20px 0;
     }
 
     $site-title-logo-image: false;
