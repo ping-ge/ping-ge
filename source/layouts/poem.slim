@@ -20,7 +20,8 @@ html
                 small.tag-label
                   = tag
           hr.article-header-separator
-        = yield
+        div.text-center
+          = yield
         - unless current_article.nil?
           = partial "partials/social"
     footer

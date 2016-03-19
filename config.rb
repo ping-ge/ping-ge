@@ -3,6 +3,8 @@
 ###
 
 require 'extensions/sitemap.rb'
+require 'helpers/lib/custom_helpers'
+helpers CustomHelpers
 
 Time.zone = 'UTC'
 
@@ -11,9 +13,9 @@ activate :blog do |blog|
   # blog.prefix = "blog"
 
   # Permalink format
-  blog.permalink = '{year}/{month}/{day}/{title}.html'
+  blog.permalink = '{category}/{year}/{month}/{day}/{title}.html'
   # Matcher for blog source files
-  blog.sources = 'posts/{year}-{month}-{day}-{title}.html'
+  blog.sources = 'posts/{category}/{year}-{month}-{day}-{title}.html'
   blog.summary_length = 250
   blog.default_extension = '.md'
   blog.tag_template = 'tag.html'

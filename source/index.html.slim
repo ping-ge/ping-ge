@@ -25,7 +25,8 @@ h1.logo
   - if article.data.image_src
     img src=article.data.image_src
     hr
-  = article.summary
+  div class=(article_summary_class_from_tags(article.tags))
+    = article.summary
   .read-more
     a href=article.url
       | Read More 
