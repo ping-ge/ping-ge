@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+#source 'https://gems.ruby-china.org'
 
 # middleman
 gem 'middleman', '~> 4.1.0'
