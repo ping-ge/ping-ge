@@ -20,10 +20,3 @@
     .feed
       a href="/feed.xml"
         i.fa.fa-rss-square
-h1.logo
-  a href="/" title="#{data.settings.site_title}"
-    - if data.settings.site_title_logo
-      img src="/#{images_dir}/#{data.settings.site_title_logo_image}" alt="title-logo"
-    - else
-      span.logo-text
-        = data.settings.site_title
