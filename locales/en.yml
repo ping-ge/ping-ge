@@ -1,0 +1,23 @@
+---
+en:
+  # header
+  home: "Home"
+  archives: 'Archives'
+  tags: 'Tags'
+  by_year: 'By Year'
+
+  # calender
+  archive_for: 'Archive For'
+
+  # by-year
+  articles_by_year: 'Articles By Year'
+
+  # author
+  author: 'Author'
+
+  # index
+  read_more: 'Read More'
+  page: 'Page'
+  page_of: 'of'
+  previous_page: 'Previous Page'
+  next_page: 'Next Page'

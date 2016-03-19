@@ -1,5 +1,5 @@
 def format_date(date)
-  date.strftime('%B %d, %Y')
+  date.strftime('%Y-%m-%d')
 end
 
 def site_title_logo

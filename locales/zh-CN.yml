@@ -1,0 +1,23 @@
+---
+zh-CN:
+  # header
+  home: "首页"
+  archives: '作品'
+  tags: '标签'
+  by_year: '年份'
+
+  # calender
+  archive_for: '作品'
+
+  # by-year
+  articles_by_year: '历年作品'
+
+  # author
+  author: '作者'
+
+  # index
+  read_more: '全文'
+  page: '页数'
+  page_of: '/'
+  previous_page: '前一页'
+  next_page: '下一页'

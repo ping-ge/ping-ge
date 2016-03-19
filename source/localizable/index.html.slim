@@ -29,7 +29,7 @@ h1.logo
     = article.summary
   .read-more
     a href=article.url
-      | Read More 
+      = t(:read_more)
       i.fa.fa-angle-double-right
   hr.article-separator
 .paginate-wrapper
@@ -38,15 +38,15 @@ h1.logo
       .previous-page
         a href="#{prev_page.url}"
           i.fa.fa-arrow-left
-          |  Previous Page
+          = t(:previous_page)
     - if next_page
       .next-page
         a href="#{next_page.url}"
+          = t(:next_page)
           i.fa.fa-arrow-right
-          |  Next Page
 - if num_pages > 1
   .page-number
-    | Page 
+    = "#{t(:page)} "
     = page_number
-    |  of 
+    = " #{t(:page_of)} "
     = num_pages

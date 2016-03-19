@@ -5,8 +5,10 @@
 require 'extensions/sitemap.rb'
 require 'helpers/lib/custom_helpers'
 helpers CustomHelpers
+activate :i18n, mount_at_root: CustomHelpers::DEFAULT_LANG
 
 Time.zone = 'UTC'
+set :fonts_dir, 'fonts-folder'
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths

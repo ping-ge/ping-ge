@@ -1,8 +1,10 @@
-- title '作者'
+- title t(:author)
 
 .text-center
   h1
-    | 作者
+    = t(:author)
+  h2
+    = data.settings.site_author
   h3
     = data.settings.site_author_profile
   .profile-image

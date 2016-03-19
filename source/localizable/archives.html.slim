@@ -2,10 +2,10 @@
 pageable: true
 --- 
 
-- title 'Archives'
+- title t(:archives)
 
 h1
-  | Archives
+  = t(:archives)
 ul.archive-list
   - blog.articles.each do |article|
     li

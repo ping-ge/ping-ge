@@ -1,11 +1,13 @@
 ---
 pageable: true
---- 
+---
 
-- title 'Tags'
+- I18n.locale = articles.first.lang
+
+- title t(:tags)
 
 h1
-  | Tags
+  i.fa.fa-tags
 ul
   - blog.tags.each do |tag, articles|
     li.tag-list

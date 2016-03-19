@@ -3,17 +3,17 @@
     .top-menu-list
       ul
         li
-          a href="/"
-            | Home
+          a href=localized_path_for('/')
+            = t(:home)
         li
-          a href="/archives/"
-            | Archives
+          a href=localized_path_for('/archives/')
+            = t(:archives)
         li
-          a href="/tags/"
-            | Tags
+          a href='/tags/'
+            = t(:tags)
         li
-          a href="/by-year/"
-            | By Year
+          a href=localized_path_for('/by-year/')
+            = t(:by_year)
         //li
         //  a href="/feed.xml"
         //    i.fa.fa-rss-square

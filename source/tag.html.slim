@@ -1,14 +1,15 @@
 ---
 pageable: true
 per_page: 12
---- 
+---
+
+- I18n.locale = articles.first.lang
 
 - title tagname
 
 h1
-  | Articles tagged '
+  i.fa.fa-tag
   = tagname
-  | '
 hr
 - if paginate && num_pages > 1
   p
