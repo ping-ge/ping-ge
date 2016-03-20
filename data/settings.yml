@@ -6,10 +6,10 @@ site_author_profile: '笔名：苹 謌'
 site_author_profile_image: 'profile/large.jpg'
 site_author_image: 'profile/small.png'
 reverse_title: true
+google_analytics_account: 'UA-58454108-2'
 social_links:
   -
   #twitter: 'https://twitter.com'
   #facebook: 'https://facebook.com'
   #github: 'https://github.com/ping-ge'
   #linkedin: 'https://linkedin.com'
-# google_analytics_account: 'XX-12345678-9'
