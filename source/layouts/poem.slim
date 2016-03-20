@@ -19,8 +19,7 @@ html
               a href="#{tag_path(tag)}"
                 small.tag-label
                   = tag
-          hr.article-header-separator
-        div.text-center
+        div.text-center.poem-content
           = yield
         - unless current_article.nil?
           = partial "partials/social"

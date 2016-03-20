@@ -1,5 +1,12 @@
+.site-description {
+  margin-top: 40px;
+}
+
 article {
   .summary.poem {
     text-align: center;
+  }
+  .summary {
+    margin-top: $article-content-margin-top;
   }
 }

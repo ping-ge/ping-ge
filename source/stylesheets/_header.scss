@@ -90,10 +90,10 @@ header {
 }
 .logo {
   margin: 0 auto;
-  padding: 160px 20px 0;
+  padding: 60px 20px 0;
 
   @include breakpoint($large-screen) {
-    padding: 150px 20px 0;
+    padding: 100px 20px 0;
   }
 
   $site-title-logo-image: false;
@@ -108,7 +108,7 @@ header {
     .logo-text {
       color: #1d1d1d;
       display: block;
-      font-size: 6vw;
+      font-size: 1.6em;
       margin: 0 auto;
       text-align: center;
 

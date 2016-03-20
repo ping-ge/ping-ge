@@ -9,6 +9,8 @@ h1.logo
     - else
       span.logo-text
         = data.settings.site_title
+  .text-center.site-description
+    = data.settings.site_description
 - page_articles.each_with_index do |article, i|
   h1.article-title
     = link_to article.title, article
@@ -21,7 +23,6 @@ h1.logo
       a href="#{tag_path(tag)}"
         small.tag-label
           = tag
-  hr.article-header-separator
   - if article.data.image_src
     img src=article.data.image_src
     hr
