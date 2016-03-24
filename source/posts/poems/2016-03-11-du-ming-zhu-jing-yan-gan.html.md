@@ -11,4 +11,3 @@ layout: poem
 
 （2016.03.11 读《道尽人生滋味, 四大名著最动人的 60 句话》)
 
-![Hong Nue](for_posts/hong-nue.jpg)
