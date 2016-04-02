@@ -23,6 +23,7 @@ html
           = yield
         - unless current_article.nil?
           = partial "partials/social"
+        = partial 'partials/duoshuo', locals: { ds_key: current_article.url, ds_title: current_article.title, ds_url: nil }
     footer
       = partial "partials/footer"
     = partial "partials/analytics"

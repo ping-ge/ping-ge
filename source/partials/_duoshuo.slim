@@ -1,0 +1,10 @@
+div class="ds-thread" data-thread-key="#{ds_key}" data-title="#{ds_title}" data-url="#{ds_url}"
+javascript:
+  var duoshuoQuery = {short_name:"#{data.settings.duoshuo_shorname}"};
+  (function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = (document.location.protocol == 'https:' ? 'https:'     : 'http:') + '//static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagNameyTagName('body')[0]).appendChild(ds);
+  })();
