@@ -11,6 +11,13 @@ layout: poem
 对酒当歌忧万千，
 一曲思念荡心田。
 
-（2015.12.01.赏《小提琴版<鸿雁>,美得难以置信》
-之随想。百听不厌,醉了……）
 
+<blockquote class="text-left inline-block">
+<p>
+2015.12.01.赏《小提琴版&lt;鸿雁&gt;,美得难以置信》
+之随想。百听不厌, 醉了……
+</p>
+</blockquote>
+
+![Ping Ge](for_posts/shang-hong-yan-qu-zhi-sui-xiang-1.jpg)
+![Ping Ge](for_posts/shang-hong-yan-qu-zhi-sui-xiang-2.jpg)

@@ -9,5 +9,8 @@ layout: poem
 他乡亲朋最亲人， 此时醉为遥想映。
 举目望月历历影， 地久天长寄深情。
 
-（2015.09.27 中秋节之夜赏月有感）
+<blockquote class="text-left inline-block">
+<p>2015.09.27 中秋节之夜赏月有感。</p>
+</blockquote>
 
+![Ping Ge](for_posts/shang-yue-yuan.jpg)
