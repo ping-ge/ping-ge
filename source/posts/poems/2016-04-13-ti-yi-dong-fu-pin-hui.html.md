@@ -15,5 +15,5 @@ layout: poem
 <p>全市移动扶贫攻坚推进现场会在昭化区虎跳镇毗鹿村召开。</p>
 </blockquote>
 
-![Ping Ge](poems/ti-yi-dong-fu-pin-hui-1.jpg)
-![Ping Ge](poems/ti-yi-dong-fu-pin-hui-2.jpg)
+![ti-yi-dong-fu-pin-hui](poems/ti-yi-dong-fu-pin-hui-1.jpg)
+![ti-yi-dong-fu-pin-hui](poems/ti-yi-dong-fu-pin-hui-2.jpg)

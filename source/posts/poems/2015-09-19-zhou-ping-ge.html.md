@@ -9,3 +9,4 @@ layout: poem
 任从风卷滔滔浪，
 青苹放謌声声情。
 
+![zhou-ping-ge](poems/2015-09-19-zhou-ping-ge.jpeg)

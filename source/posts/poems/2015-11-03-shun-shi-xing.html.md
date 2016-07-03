@@ -26,4 +26,4 @@ layout: poem
 </p>
 </blockquote>
 
-![Ping Ge](poems/shun-shi-xing.jpg)
+![shun-shi-xing](poems/shun-shi-xing.jpg)

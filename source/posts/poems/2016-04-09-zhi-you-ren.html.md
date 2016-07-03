@@ -7,4 +7,4 @@ layout: poem
 阳春三月三，靚妆丽人灿。
 友人情义绵，百花竞相艳。
 
-![Ping Ge](poems/zhi-you-ren.jpg)
+![zhi-you-ren](poems/zhi-you-ren.jpg)
