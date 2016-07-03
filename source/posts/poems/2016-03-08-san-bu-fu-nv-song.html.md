@@ -18,5 +18,5 @@ layout: poem
 
 （移动“和”家美女们的节日——玫瑰庄园游艺活动之乐）
 
-![San Ba Fu Nv Song 1](for_posts/san-ba-fu-nv-song-1.jpg)
-![San Ba Fu Nv Song 2](for_posts/san-ba-fu-nv-song-2.jpg)
+![San Ba Fu Nv Song 1](poems/san-ba-fu-nv-song-1.jpg)
+![San Ba Fu Nv Song 2](poems/san-ba-fu-nv-song-2.jpg)

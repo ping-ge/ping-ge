@@ -11,4 +11,4 @@ layout: poem
 
 （2016.01.23 大风吹的“呼呼”响，广元的风却是“呜呜”的叫声）
 
-![La Mei Ao Han](for_posts/la-mei-ao-han.jpg)
+![La Mei Ao Han](poems/la-mei-ao-han.jpg)

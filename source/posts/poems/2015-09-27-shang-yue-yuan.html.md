@@ -13,4 +13,4 @@ layout: poem
 <p>2015.09.27 中秋节之夜赏月有感。</p>
 </blockquote>
 
-![Ping Ge](for_posts/shang-yue-yuan.jpg)
+![Ping Ge](poems/shang-yue-yuan.jpg)

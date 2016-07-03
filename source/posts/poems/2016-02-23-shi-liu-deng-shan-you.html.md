@@ -11,6 +11,6 @@ layout: poem
 
 （2016.02.23 广元湿地公园南山“正月十六游百病”）
 
-![Shi Liu Deng Shan You 1](for_posts/shi-liu-deng-shan-you-1.jpg)
-![Shi Liu Deng Shan You 2](for_posts/shi-liu-deng-shan-you-2.jpg)
+![Shi Liu Deng Shan You 1](poems/shi-liu-deng-shan-you-1.jpg)
+![Shi Liu Deng Shan You 2](poems/shi-liu-deng-shan-you-2.jpg)
 

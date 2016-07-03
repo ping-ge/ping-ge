@@ -19,5 +19,5 @@ layout: poem
 </p>
 </blockquote>
 
-![Ping Ge](for_posts/shang-hong-yan-qu-zhi-sui-xiang-1.jpg)
-![Ping Ge](for_posts/shang-hong-yan-qu-zhi-sui-xiang-2.jpg)
+![Ping Ge](poems/shang-hong-yan-qu-zhi-sui-xiang-1.jpg)
+![Ping Ge](poems/shang-hong-yan-qu-zhi-sui-xiang-2.jpg)

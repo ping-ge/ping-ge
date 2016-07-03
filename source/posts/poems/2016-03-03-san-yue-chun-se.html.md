@@ -19,6 +19,6 @@ layout: poem
 </p>
 </blockquote>
 
-![San Yue Chun Se](for_posts/san-yue-chun-se-1.jpg)
-![San Yue Chun Se](for_posts/san-yue-chun-se-2.jpg)
+![San Yue Chun Se](poems/san-yue-chun-se-1.jpg)
+![San Yue Chun Se](poems/san-yue-chun-se-2.jpg)
 

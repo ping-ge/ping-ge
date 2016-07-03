@@ -16,4 +16,4 @@ layout: poem
 </p>
 </blockquote>
 
-![Ping Ge](for_posts/he-jia-qian-xi.jpg)
+![Ping Ge](poems/he-jia-qian-xi.jpg)

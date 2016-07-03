@@ -11,4 +11,4 @@ layout: poem
 读《人到中年，心最累，情最深》 。
 </blockquote>
 
-![Ping Ge](for_posts/ping-ge.jpg)
+![Ping Ge](poems/ping-ge.jpg)
